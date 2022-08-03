@@ -1,0 +1,3 @@
+This is a Game Design Document I made for an already existing game. 
+
+I will be adding new documents for games that I created the idea of.
