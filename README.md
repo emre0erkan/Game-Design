@@ -5,3 +5,5 @@ I have never had an education for drawing, any visual arts or preparing game des
 I am going to be drawing on paper and put pictures of them in documents for now.
 
 New design documents are going to be added soon.
+
+Currently preparing English versions of the documents.
